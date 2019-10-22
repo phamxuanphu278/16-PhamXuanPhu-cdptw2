@@ -18,14 +18,14 @@
 ?>
 <html lang="en">
 <head>
+<meta charset="UTF-8">
 <title>Module17</title>
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="css/17.css" rel="stylesheet" type="text/css">
-<script src="js/jquery-2.1.4.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/fontawesome-all.min.js"></script>
+<link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="<?php echo $url_path ?>/css/17.css" rel="stylesheet" type="text/css"/>
+<script src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script src="<?php echo $url_path ?>/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="<?php echo $url_path ?>/js/fontawesome-all.min.js" type="text/javascript"></script>
 </head>
 <body>
     <?php include './17-content.php'; ?>
