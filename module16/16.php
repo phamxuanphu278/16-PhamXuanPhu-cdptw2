@@ -25,7 +25,7 @@
     <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <script src="<?php echo $url_path ?>/js/swiper.min.js" type="text/javascript"></script>
     <script src="<?php echo $url_path ?>/js/jquery.min.js" type="text/javascript"></script>
-    <script src="<?php echo $url_path ?>/js/main.js" type="text/javascript"></script>
+    <script src="<?php echo $url_path ?>/js/16.js" type="text/javascript"></script>
 </head>
 <body>
 	<?php include './16-content.php'; ?>
