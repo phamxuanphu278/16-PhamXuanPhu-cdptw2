@@ -21,8 +21,8 @@ $less->compileFile('less/23.less', 'css/23.css');
 	<meta charset="UTF-8">
 	<title>Module23</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-	<link href="css/23.css" rel="stylesheet" type="text/css">
+	<link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo $url_path ?>/css/23.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 	<?php include './23-content.php'; ?>

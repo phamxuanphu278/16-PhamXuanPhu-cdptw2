@@ -20,23 +20,19 @@ $url_path = str_replace('\\', '/', $url_path);
       			<div class="col-md-6">
       				<img src="images/giay1.jpg" alt="" class="img-responsive stone-img">
       			</div>
-      			<div class="col-md-6">
-      				<marquee direction="left"  width="100%" scrollamount="50" behavior="slide"> 
-      					<h2 class="fonts1">SHOP GIÀY ĐẸP</h2>
-      					<h3 class="fonts2">
-      						<span class="span-s1">KHALIL MAMOON</span> 
-      						<span class="span-s2">MT-SHOP</span>
-      					</h3>
-      				</marquee>
-      				<marquee direction="up" width="100%" scrollamount="10" behavior="slide"> 
-      					<div class="bot-slide">
-      					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore accusamus rem consequatur dolorum deserunt hic.</p>
-      					<span>
-      						<button type="button1" class="button-s">VIEW MORE</button>
-      						<button type="button1" class="button-x">GO TO SHOP</button>
-      					</span>
-      					</div>
-      				</marquee>
+      			<div class="col-md-6"> 
+      				<h2 class="fonts1">SHOP GIÀY ĐẸP</h2>
+      				<h3 class="fonts2">
+      					<span class="span-s1">KHALIL MAMOON</span> 
+      					<span class="span-s2">MT-SHOP</span>
+      				</h3>
+      				<div class="bot-slide">
+      				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore accusamus rem consequatur dolorum deserunt hic.</p>
+      				<span>
+      					<button type="button1" class="button-s">VIEW MORE</button>
+      					<button type="button1" class="button-x">GO TO SHOP</button>
+      				</span>
+      				</div>
       			</div>
       		</div>
       	</div>
