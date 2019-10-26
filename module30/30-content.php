@@ -11,7 +11,6 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-
 <footer class="end-footer">
         <div>
           <a href="#"><img src="images/logo.png" alt="" class="img-responsive img-footerwid"></a>
@@ -88,9 +87,9 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
               </div>
             </div>
-              <div class="designer-footer">
-                <a href="#">DESIGN BY TEAMC</a>
-              </div>
+            <div class="designer-footer">
+              <a href="#">DESIGN BY TEAMC</a>
+            </div>
           </div>
           <div class="ft-footer">
              &copy; 2019 Created by <span class="team-footer"><a href="#">C-Team Studio</a></span>. Premium e-commerce solutions.
